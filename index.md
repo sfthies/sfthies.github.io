@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my personal website
+
+I am a first year PhD student in the Sustainable Development program at Columbia University. On this website you can learn about my research interests, ongoing work, and other stuff that I find interesting. This website site is 100% work in progress. Whenever I find some time, I try to work on it and understand how github pages work. 
+
+Stephan holds a BSc in Economics from Freie Universität Berlin (Germany), an MSc in Statistics from Imperial College London (UK), and an MA in International Trade, Finance, and Development from Barcelona Graduate School of Economics (Spain). Prior to joining Columbia’s PhD program, he worked as a research assistant at the Potsdam Institute for Climate Impact Research and as a consultant for the World Bank’s Global Facility for Disaster Reduction and Recovery.
+
 
 You can use the [editor on GitHub](https://github.com/sfthies/sfthies.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
