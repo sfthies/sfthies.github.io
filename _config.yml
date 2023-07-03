@@ -2,6 +2,13 @@ theme: jekyll-theme-minimal
 title: Stephan Thies
 description: This website is work in progress and currently not up to date
 
-header_pages:
-   - index.html
-   - research.html
+---
+  defaults:
+    # _docs
+    - scope:
+        path: ""
+        type: main
+      values:
+        sidebar:
+          nav: "main"
+  ---  
