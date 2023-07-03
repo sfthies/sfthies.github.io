@@ -1,4 +1,4 @@
-## Stephan Thies
+## Welcome
 
 I am a rising fourth-year PhD student in the Sustainable Development program at Columbia University. My current research interests revolve around the intersection of spatial, urban, and environmental economics. You can contact me [here](mailto:stephan.thies@columbia.edu). 
 
